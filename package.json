@@ -1,0 +1,24 @@
+{
+  "name": "ewallet_backend",
+  "version": "1.0.0",
+  "description": "backend of wallet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayushkr08/ewallet_backend.git"
+  },
+  "author": "ayush",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ayushkr08/ewallet_backend/issues"
+  },
+  "homepage": "https://github.com/ayushkr08/ewallet_backend#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
